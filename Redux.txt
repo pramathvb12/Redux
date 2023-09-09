@@ -1,0 +1,27 @@
+Redux library in js
+
+Mainly used to reduce the use of props for using it in derived components.
+
+1)Using props for state is very headache for developers
+2)For using the state of one component we have to pass as props to other components.
+
+To reduce this there is redux library
+
+Usage -
+
+1) Easy testing
+2)Maximum throughput
+
+
+Actions and Reducers
+
+Action :
+
+Intension to cause the change.
+
+
+Reducers :
+
+Returns the new state for changing the state.Also determine changes in the application state.
+
+

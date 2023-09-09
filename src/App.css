@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+body{
+  width: 100%;
+  background-image: url("https://www.allbusiness.com/asset/2018/07/online-shopping-concept.jpg");
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: 100%;
 }
